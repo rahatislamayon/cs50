@@ -21,5 +21,3 @@ The course culminates in a Final Project, where students design and implement a 
 What makes CS50 unique is its focus on how to think, not just what to code. Students finish the course with a deep understanding of how computers work, how data is stored and processed, and how to translate ideas into functioning programs.
 
 Completing CS50 is a major achievement. It reflects not only technical skill but also persistence, problem-solving ability, and a commitment to learning how technology shapes the world.
-
-Would you like me to tailor this section for your specific project (for example, if it’s your Command-Line Calculator or Info Mask Chrome Extension)? I can make it fit naturally into your full README.md.
