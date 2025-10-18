@@ -1,0 +1,39 @@
+tags used:
+html
+head
+title
+body
+footer
+div
+section
+nav
+header
+button
+p
+ol
+ul
+li
+a
+h1
+h2
+h3
+img
+
+CSS properties used:
+- background-color: Used to set the background color of the body, header, and footer.
+- font-family: Applied to the body for consistent typography.
+- text-align: Used to center-align text in the header and footer.
+- border-radius: Applied to images to create circular photos.
+- color: Used to set text colors for various elements.
+- padding: Added spacing inside elements like the header and footer.
+- margin: Centered the body content.
+- line-height: Improved readability of text.
+- text-decoration: Styled navigation links.
+- border: Added a border to circular photos.
+
+JS implementation:
+- Added a button to toggle dark mode using JavaScript.
+
+Bootstrap implementation:
+- Integrated Bootstrap for responsive design and styling.
+- Used Bootstrap's grid system and utility classes for layout and alignment.

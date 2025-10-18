@@ -1,0 +1,28 @@
+sort1 uses: bubble sort
+
+How do you know?: It was slow on random data but sped up a lot on already-sorted input, which happens because bubble sort stops early once no swaps are needed.
+
+sort2 uses: merge sort
+
+How do you know?: It scales far better than the other two and is consistently very fast, which is characteristic of O(n log n).
+
+sort3 uses:  selection sort
+
+How do you know?: Runtime doesn’t change between random and sorted input, which is the hallmark of selection sort’s fixed O(n^2) comparisons.
+
+
+
+
+// notes:
+//sort1 random10k:.226s
+//soet1 sorted10k:.058s
+
+
+//sort2 random10k:.056s
+//soet2 sorted10k:.040s
+
+
+
+//sort3 random10k:.128s
+//soet3 sorted10k:.149s
+
