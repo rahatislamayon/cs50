@@ -1,4 +1,4 @@
-#include <cs50.h>
+//#include <cs50.h>
 #include <stdio.h>
 
 float add(float a, float b)
@@ -36,9 +36,10 @@ int main(void)
     printf("3. Multiply\n");
     printf("4. Divide\n");
 
-    int choice = get_int("Select operation (1-4): ");
+    int choice;
+    float x, y;
 
-    float x = get_float("Enter first number: ");
+    // Input for operation choice and numbers will be handled by cs50.h functions
     float y = get_float("Enter second number: ");
 
     float result;
